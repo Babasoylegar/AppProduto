@@ -1,0 +1,13 @@
+C:\Users\Aluno\Desktop\appproduto\appproduto\obj\Debug\appproduto.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\appproduto\appproduto\obj\Debug\appproduto.frmlogin.resources
+C:\Users\Aluno\Desktop\appproduto\appproduto\obj\Debug\appproduto.frmproduto.resources
+C:\Users\Aluno\Desktop\appproduto\appproduto\obj\Debug\appproduto.frmsplash.resources
+C:\Users\Aluno\Desktop\appproduto\appproduto\obj\Debug\appproduto.Properties.Resources.resources
+C:\Users\Aluno\Desktop\appproduto\appproduto\obj\Debug\appproduto.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\appproduto\appproduto\obj\Debug\appproduto.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\appproduto\appproduto\bin\Debug\appproduto.exe.config
+C:\Users\Aluno\Desktop\appproduto\appproduto\bin\Debug\appproduto.exe
+C:\Users\Aluno\Desktop\appproduto\appproduto\bin\Debug\appproduto.pdb
+C:\Users\Aluno\Desktop\appproduto\appproduto\obj\Debug\appproduto.exe
+C:\Users\Aluno\Desktop\appproduto\appproduto\obj\Debug\appproduto.pdb
+C:\Users\Aluno\Desktop\appproduto\appproduto\obj\Debug\appproduto.exe.config
