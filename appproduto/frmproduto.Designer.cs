@@ -37,6 +37,7 @@
             this.lblnome = new System.Windows.Forms.Label();
             this.btnnovo = new System.Windows.Forms.Button();
             this.btnlimpar = new System.Windows.Forms.Button();
+            this.btnvoltar = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -115,7 +116,7 @@
             this.btnnovo.BackColor = System.Drawing.Color.DodgerBlue;
             this.btnnovo.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnnovo.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnnovo.Location = new System.Drawing.Point(424, 339);
+            this.btnnovo.Location = new System.Drawing.Point(416, 335);
             this.btnnovo.Name = "btnnovo";
             this.btnnovo.Size = new System.Drawing.Size(107, 42);
             this.btnnovo.TabIndex = 5;
@@ -128,7 +129,7 @@
             this.btnlimpar.BackColor = System.Drawing.Color.DodgerBlue;
             this.btnlimpar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnlimpar.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnlimpar.Location = new System.Drawing.Point(587, 339);
+            this.btnlimpar.Location = new System.Drawing.Point(590, 335);
             this.btnlimpar.Name = "btnlimpar";
             this.btnlimpar.Size = new System.Drawing.Size(107, 42);
             this.btnlimpar.TabIndex = 6;
@@ -136,12 +137,26 @@
             this.btnlimpar.UseVisualStyleBackColor = false;
             this.btnlimpar.Click += new System.EventHandler(this.btnlimpar_Click);
             // 
+            // btnvoltar
+            // 
+            this.btnvoltar.BackColor = System.Drawing.Color.Salmon;
+            this.btnvoltar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnvoltar.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnvoltar.Location = new System.Drawing.Point(505, 396);
+            this.btnvoltar.Name = "btnvoltar";
+            this.btnvoltar.Size = new System.Drawing.Size(107, 42);
+            this.btnvoltar.TabIndex = 7;
+            this.btnvoltar.Text = "Voltar";
+            this.btnvoltar.UseVisualStyleBackColor = false;
+            this.btnvoltar.Click += new System.EventHandler(this.btnvoltar_Click);
+            // 
             // frmproduto
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.PaleTurquoise;
             this.ClientSize = new System.Drawing.Size(1120, 590);
+            this.Controls.Add(this.btnvoltar);
             this.Controls.Add(this.btnlimpar);
             this.Controls.Add(this.btnnovo);
             this.Controls.Add(this.groupBox1);
@@ -166,5 +181,6 @@
         private System.Windows.Forms.TextBox txtnome;
         private System.Windows.Forms.Button btnnovo;
         private System.Windows.Forms.Button btnlimpar;
+        private System.Windows.Forms.Button btnvoltar;
     }
 }

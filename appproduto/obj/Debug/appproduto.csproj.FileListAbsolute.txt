@@ -10,4 +10,5 @@ C:\Users\Aluno\Desktop\appproduto\appproduto\bin\Debug\appproduto.exe
 C:\Users\Aluno\Desktop\appproduto\appproduto\bin\Debug\appproduto.pdb
 C:\Users\Aluno\Desktop\appproduto\appproduto\obj\Debug\appproduto.exe
 C:\Users\Aluno\Desktop\appproduto\appproduto\obj\Debug\appproduto.pdb
-C:\Users\Aluno\Desktop\appproduto\appproduto\obj\Debug\appproduto.exe.config
+C:\Users\Aluno\Desktop\AppProduto\appproduto\obj\Debug\appproduto.frmmenu.resources
+C:\Users\Aluno\Desktop\AppProduto\appproduto\obj\Debug\appproduto.v.resources

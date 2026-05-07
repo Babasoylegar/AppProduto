@@ -79,7 +79,7 @@
             this.btnentrar.Location = new System.Drawing.Point(387, 332);
             this.btnentrar.Name = "btnentrar";
             this.btnentrar.Size = new System.Drawing.Size(107, 42);
-            this.btnentrar.TabIndex = 4;
+            this.btnentrar.TabIndex = 3;
             this.btnentrar.Text = "Entrar";
             this.btnentrar.UseVisualStyleBackColor = false;
             this.btnentrar.Click += new System.EventHandler(this.btnentrar_Click);
@@ -89,8 +89,9 @@
             this.txtsenha.Location = new System.Drawing.Point(117, 177);
             this.txtsenha.Multiline = true;
             this.txtsenha.Name = "txtsenha";
+            this.txtsenha.PasswordChar = '*';
             this.txtsenha.Size = new System.Drawing.Size(148, 23);
-            this.txtsenha.TabIndex = 6;
+            this.txtsenha.TabIndex = 2;
             this.txtsenha.TextChanged += new System.EventHandler(this.txtsenha_TextChanged);
             this.txtsenha.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txtsenha_KeyDown);
             // 
@@ -102,7 +103,7 @@
             this.btnlimpar.Location = new System.Drawing.Point(620, 332);
             this.btnlimpar.Name = "btnlimpar";
             this.btnlimpar.Size = new System.Drawing.Size(107, 42);
-            this.btnlimpar.TabIndex = 7;
+            this.btnlimpar.TabIndex = 4;
             this.btnlimpar.Text = "limpar";
             this.btnlimpar.UseVisualStyleBackColor = false;
             this.btnlimpar.Click += new System.EventHandler(this.btnlimpar_Click);

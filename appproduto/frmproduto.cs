@@ -46,5 +46,13 @@ namespace appproduto
         {
 
         }
+
+        private void btnvoltar_Click(object sender, EventArgs e)
+        {
+            frmmenu frmmenu = new frmmenu();
+            frmmenu.Show();
+            this.Hide();
+
+        }
     }
 }

@@ -29,8 +29,8 @@ namespace appproduto
 
             if (sucesso && usuario == "admin" && senha == 123)
             {
-                frmproduto frmproduto = new frmproduto();
-                frmproduto.Show();
+                frmmenu frmmenu = new frmmenu();
+                frmmenu.Show();
                 this.Hide();
             }
             else
